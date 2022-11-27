@@ -111,11 +111,11 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "joyshk7217@naver.com"
-      # url: "mailto:your.name@email.com"
+      icon: "fab fa-fw fa-envelope-square"
+      url: "joyshk7217@naver.com"
     - label: "GitHub"
-      icon: "https://github.com/xxxjoyxxx"
-      # url: "https://github.com/"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/xxxjoyxxx"
 
 # Site Footer
 footer:
