@@ -14,6 +14,7 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 # minimal_mistakes_skin    : "contrast"
 # Site Settings
+
 locale                   : "ko_KR"
 title                    : "Studylog_HK"
 title_separator          : "|"
