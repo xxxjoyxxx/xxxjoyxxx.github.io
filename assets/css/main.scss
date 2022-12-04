@@ -14,10 +14,7 @@ a {
     &:focus {
       @extend %tab-focus;
     }
-  
-    &:visited {
-      color: $link-color-visited;
-    }
+    
   }
   
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin

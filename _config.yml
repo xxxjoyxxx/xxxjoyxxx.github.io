@@ -112,8 +112,8 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope-square"
-      url: "joyshk7217@naver.com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:joyshk7217@naver.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xxxjoyxxx"
